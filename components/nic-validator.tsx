@@ -75,7 +75,7 @@ export default function NICValidator() {
       })
 
       setBirthDate(formattedDate)
-    } catch (err) {
+    } catch {
       setError('Invalid NIC number format')
     }
   }
