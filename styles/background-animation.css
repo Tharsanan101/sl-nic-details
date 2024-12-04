@@ -1,0 +1,9 @@
+.animated-background {
+  background: linear-gradient(to right, #f7f7f7, #e0e0e0);
+  transition: all 0.3s ease;
+}
+
+.cursor-reactive {
+  transition: all 0.3s ease;
+}
+
